@@ -49,8 +49,8 @@ ${data.description}
 - [Usage](#Usage)
 - [License](#License)
 - [Contributing](#Contributing)
--[Test](#Test)
--[Questions](#Questions)
+- [Test](#Test)
+- [Questions](#Questions)
 
   ## Installation
 ${data.installation}

@@ -56,7 +56,7 @@ const questions = [{
 // TODO: Create a function to write README file
 function writeToFile(answers) {
     fs.writeFile(`./README.md`, generateMarkdown(answers), (err) =>
-          err ? console.error(err) : console.log('Success!')
+          err ? console.error(err) : console.log('Provided information entered!')
         );
 }
 
