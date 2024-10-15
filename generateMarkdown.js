@@ -44,13 +44,13 @@ ${data.description}
 
 
   ## Table of Contents
-- [Description](#Description)
-- [Installation](#Installation)
-- [Usage](#Usage)
-- [License](#License)
-- [Contributing](#Contributing)
-- [Test](#Test)
-- [Questions](#Questions)
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contributing](#contributing)
+- [Test](#test)
+- [Questions](#questions)
 
   ## Installation
 ${data.installation}
